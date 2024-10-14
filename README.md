@@ -51,7 +51,7 @@ Features: Radius, Texture, Perimeter, Area, Smoothness, etc.
 -->Installation
 
 step 1. Clone the repository:
-      git clone https://github.com/your-username/Breast_cancer_detection-Project.git
+      git clone https://github.com/Ankush-paul1/Breast_cancer_detection-Project.git
       cd Breast_cancer_detection-Project
 
 step 2. Install the required libraries:
